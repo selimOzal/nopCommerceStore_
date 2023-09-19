@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="projeye devam">
-      <change afterPath="$PROJECT_DIR$/src/Main/Dilek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Dilek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Dilek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/dilek.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,42 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.dilek">
+  <component name="RunManager" selected="TestNG.Dilek">
+    <configuration name="Dilek" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopCommerceStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Main.Dilek" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dilek.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopCommerceStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Main.Dilek" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Emrullah.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="nopCommerceStore" />
       <extension name="coverage">
@@ -124,10 +159,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Dilek" />
+        <item itemvalue="TestNG.Dilek.test1" />
         <item itemvalue="TestNG.dilek" />
         <item itemvalue="TestNG.dilek.test1" />
-        <item itemvalue="TestNG.Emrullah.test" />
-        <item itemvalue="TestNG.Emrullah.test" />
         <item itemvalue="TestNG.Emrullah.test" />
       </list>
     </recent_temporary>
@@ -148,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695044520140</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="projeye devam">
+      <created>1695140213033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695140213033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
