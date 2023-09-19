@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="proje basladi">
+    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="projeye devam">
+      <change afterPath="$PROJECT_DIR$/src/Main/Dilek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/dilek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/dilek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/dilek.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.dilek.test1">
+  <component name="RunManager" selected="TestNG.dilek">
     <configuration name="Emrullah.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="nopCommerceStore" />
       <extension name="coverage">
@@ -123,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.dilek.test1" />
         <item itemvalue="TestNG.dilek" />
+        <item itemvalue="TestNG.dilek.test1" />
         <item itemvalue="TestNG.Emrullah.test" />
         <item itemvalue="TestNG.Emrullah.test" />
         <item itemvalue="TestNG.Emrullah.test" />
@@ -140,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694796247535</updated>
     </task>
+    <task id="LOCAL-00001" summary="projeye devam">
+      <created>1695044520140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695044520140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeye devam" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeye devam" />
   </component>
 </project>
