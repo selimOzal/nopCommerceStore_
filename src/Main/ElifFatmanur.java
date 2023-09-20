@@ -38,6 +38,6 @@ public class ElifFatmanur extends BaseDriver {
         dropdown3.selectByVisibleText("1990");
 
         MyFunc.Bekle(3);
-
+        System.out.println();
     }
     }
