@@ -3,6 +3,7 @@ package Main;
 import Utility.BaseDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Dilek extends BaseDriver {
@@ -19,10 +20,10 @@ public class Dilek extends BaseDriver {
         password.sendKeys("ahmet2303");
         WebElement remember = driver.findElement(By.cssSelector("input[id='RememberMe']"));
         remember.click();
-        WebElement forgot = driver.findElement(By.linkText("Forgot password?"));
-        forgot.click();
-        WebElement login2 = driver.findElement(By.cssSelector("button[type='submit']"));
+        WebElement login2 = driver.findElement(By.xpath("(//*[@type='submit'])[2]"));
         login2.click();
+        WebElement logoutDogrulama = driver.findElement(By.cssSelector("[class='ico-logout']"));
+        Assert.assertEquals(logoutDogrulama.getText(), "Log out");
 
 
     }
