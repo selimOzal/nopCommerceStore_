@@ -7,7 +7,6 @@
     <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="projeye devam">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Dilek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Dilek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/dilek.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695140213033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="projeye devam">
+      <created>1695141049539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695141049539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
