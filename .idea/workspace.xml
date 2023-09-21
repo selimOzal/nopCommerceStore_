@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/src/Main/zeynep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Selimm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2VRQ7nbKwWx4RepekQn7XevHNT2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,8 +50,8 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.zeynep.BilgisayarSiparisi">
-    <configuration name="Dilek.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ElifFatmanur">
+    <configuration name="ElifFatmanur" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="nopCommerceStore" />
       <extension name="coverage">
         <pattern>
@@ -58,9 +60,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Main" />
-      <option name="MAIN_CLASS_NAME" value="Main.Dilek" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="Main.ElifFatmanur" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -95,31 +96,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zeynep.BilgisayarSiparisi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="nopCommerceStore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Main" />
-      <option name="MAIN_CLASS_NAME" value="Main.zeynep" />
-      <option name="METHOD_NAME" value="BilgisayarSiparisi" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.zeynep.BilgisayarSiparisi" />
+        <item itemvalue="TestNG.ElifFatmanur" />
+        <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
         <item itemvalue="TestNG.Emrullah.test" />
-        <item itemvalue="TestNG.Dilek.test1" />
-        <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
-        <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +126,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="emrullah" />
+                        <option value="Selim" />
                       </list>
                     </value>
                   </entry>
