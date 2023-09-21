@@ -49,8 +49,7 @@ public class zeynep extends BaseDriver {
           WebElement login2 = driver.findElement(By.xpath("/html/body/div[6]/div[3]/div/div/div/div[2]/div[1]/div[2]/form/div[3]/button"));
           login2.click();
 
-         // WebElement dogrulamaMesaji = driver.findElement(By.xpath("//div[@class='bar-notification success']"));
-          //Assert.assertEquals(dogrulamaMesaji.getText(), "The product has been added to your shopping cart");
+
 
 
 
