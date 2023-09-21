@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/src/Main/Selimm.java" afterDir="false" />
+    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="yeniden olusturuldu, testler calisiyor.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -98,9 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Emrullah.test" />
         <item itemvalue="TestNG.ElifFatmanur" />
         <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
         <item itemvalue="TestNG.Emrullah.test" />
+        <item itemvalue="TestNG.ElifFatmanur" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694796247535</updated>
     </task>
+    <task id="LOCAL-00001" summary="yeniden olusturuldu, testler calisiyor.">
+      <created>1695282433873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695282433873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +139,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Selim" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -137,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yeniden olusturuldu, testler calisiyor." />
+    <option name="LAST_COMMIT_MESSAGE" value="yeniden olusturuldu, testler calisiyor." />
   </component>
 </project>
