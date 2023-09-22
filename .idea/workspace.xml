@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/src/Main/Selimm.java" afterDir="false" />
-    </list>
+    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Start project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="osman" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,9 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Emrullah.test" />
         <item itemvalue="TestNG.ElifFatmanur" />
         <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
-        <item itemvalue="TestNG.Emrullah.test" />
+        <item itemvalue="TestNG.ElifFatmanur" />
+        <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
       </list>
     </recent_temporary>
   </component>
