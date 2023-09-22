@@ -19,7 +19,7 @@ public class Osman extends BaseDriver {
 
     @Test
     public void hediyeSiparisiVerme(){
-        HediyeSiparisiPom hsp = new HediyeSiparisiPom();
+        SearchElements elm = new SearchElements();
         driver.get("https://demo.nopcommerce.com/");
 
         //Tab Menu kontrolu
@@ -33,34 +33,34 @@ public class Osman extends BaseDriver {
         menuExpectedList.add("Gift Cards");
 
         for (int i = 0; i <menuExpectedList.size() ; i++) {
-            Assert.assertTrue(hsp.tabMenu.getText().contains(menuExpectedList.get(i)));
+            Assert.assertTrue(elm.tabMenu.getText().contains(menuExpectedList.get(i)));
         }
 
         //Rastgele fisizksel hediye secme
-        hsp.giftCardsBtn.click();
-        int randomSecim = (int) (Math.random() * hsp.giftCardsDetails.size());
-        hsp.giftCardsDetails.get(randomSecim).click();
+        elm.giftCardsBtn.click();
+        int randomSecim = (int) (Math.random() * elm.giftCardsDetails.size());
+        elm.giftCardsDetails.get(randomSecim).click();
 
         //Zorunlu alanlar doldurulmadiginda uyari mesaji
-        hsp.addToChartBtn.click();
-        for(WebElement h: hsp.hataMesaji)
+        elm.addToChartBtn.click();
+        for(WebElement h: elm.hataMesaji)
             Assert.assertTrue(h.getText().contains("Enter valid"));
 
-        hsp.hataMesajiKapatma.click();
+        elm.hataMesajiKapatma.click();
 
         //Zorunlu alanlari doldurma
-        hsp.recipName.sendKeys("Teo Leo");
-        hsp.yourName.sendKeys("Ben Ben");
-        hsp.message.sendKeys("Happy new year");
-        if (hsp.recipEmail.size()!=0){
-            hsp.recipEmail.get(0).sendKeys("teoleo@hotmail.com");
-            hsp.yourEmail.sendKeys("osman@hotmail.com");
+        elm.recipName.sendKeys("Teo Leo");
+        elm.yourName.sendKeys("Ben Ben");
+        elm.message.sendKeys("Happy new year");
+        if (elm.recipEmail.size()!=0){
+            elm.recipEmail.get(0).sendKeys("teoleo@hotmail.com");
+            elm.yourEmail.sendKeys("osman@hotmail.com");
         }
 
-        hsp.addToChartBtn.click();
+        elm.addToChartBtn.click();
 
         //Urunun sepete eklendigini dogrulama
-        Assert.assertEquals(hsp.dogrulamaMesaji.getText(), "The product has been added to your shopping cart");
+        Assert.assertEquals(elm.dogrulamaMesaji.getText(), "The product has been added to your shopping cart");
         }
 }
 
