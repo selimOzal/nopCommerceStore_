@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/src/Main/Selimm.java" afterDir="false" />
+    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Selimm clasii eklendi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Dilek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Dilek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/ElifFatmanur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/ElifFatmanur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/SelimPomm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/SelimPomm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -26,6 +32,25 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="emr4706" />
+        <option name="repository" value="nopCommerceStore" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f23df109-dc4f-449f-bee2-105101235d9e" />
+        <option name="url" value="https://github.com/emr4706/nopCommerceStore.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -39,18 +64,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;emrullah&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/TestinProje_4&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.ElifFatmanur">
+  <component name="RunManager" selected="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml">
     <configuration name="ElifFatmanur" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="nopCommerceStore" />
       <extension name="coverage">
@@ -98,9 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Emrullah.test" />
         <item itemvalue="TestNG.ElifFatmanur" />
         <item itemvalue="TestNG./Users/emr/Documents/java-dersleri/Selenium/nopCommerceStore/src/Main/XML/Searh.xml" />
         <item itemvalue="TestNG.Emrullah.test" />
+        <item itemvalue="TestNG.ElifFatmanur" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +143,28 @@
       <option name="presentableId" value="Default" />
       <updated>1694796247535</updated>
     </task>
+    <task id="LOCAL-00001" summary="slm classi silindi">
+      <created>1695310683792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695310683792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="duzeltme">
+      <created>1695373208414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695373208414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Selimm clasii eklendi">
+      <created>1695384207023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695384207023</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +178,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Selim" />
+                        <option value="origin/Selim" />
                       </list>
                     </value>
                   </entry>
@@ -137,5 +189,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="slm classi silindi" />
+    <MESSAGE value="duzeltme" />
+    <MESSAGE value="Selimm clasii eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selimm clasii eklendi" />
   </component>
 </project>

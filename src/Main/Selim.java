@@ -1,31 +1,29 @@
 package Main;
 
 import Utility.BaseDriver;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class Selimmm  extends BaseDriver {
+public class Selim  extends BaseDriver {
 
 
     @Test(dataProvider = "userData")
 
     public void  PozitifNegatifLogin(String email, String password) {
-        SelimPomm sp=new SelimPomm();
+        SearchElements elm = new SearchElements();
 
         driver.get("https://demo.nopcommerce.com/");
 
 
-        sp.Login.click();
+        elm.Login.click();
 
-        sp.Email.sendKeys(email);
+        elm.Email.sendKeys(email);
 
-        sp.Password.sendKeys(password);
+        elm.Password.sendKeys(password);
 
-        sp.rememberMe.click();
+        elm.rememberMe.click();
 
-        sp.LogInButton.click();
+        elm.LogInButton.click();
     }
 
     @DataProvider()
