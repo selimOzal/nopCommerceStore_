@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Selimm clasii eklendi">
+    <list default="true" id="a8c601c9-9efa-4d7f-ade3-f176185ce6bf" name="Changes" comment="Son hali verildi3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Dilek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Dilek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/ElifFatmanur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/ElifFatmanur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/SelimPomm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/SelimPomm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +20,21 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/master" />
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="osman" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
       <RepoCoordinatesHolder>
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695384207023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Son hali verildi3">
+      <created>1695386937840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695386937840</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +198,8 @@
     <MESSAGE value="slm classi silindi" />
     <MESSAGE value="duzeltme" />
     <MESSAGE value="Selimm clasii eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selimm clasii eklendi" />
+    <MESSAGE value="Son hali verildi2" />
+    <MESSAGE value="Son hali verildi3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Son hali verildi3" />
   </component>
 </project>
