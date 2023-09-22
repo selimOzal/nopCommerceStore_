@@ -61,9 +61,7 @@ public class Osman extends BaseDriver {
 
         //Urunun sepete eklendigini dogrulama
         Assert.assertEquals(hsp.dogrulamaMesaji.getText(), "The product has been added to your shopping cart");
-
         }
-
 }
 
 
