@@ -50,7 +50,7 @@ public class ElifFatmanur extends BaseDriver {
 
         firstName.sendKeys("Ayse");
         lastName.sendKeys("deniz");
-        eMail.sendKeys("ayse0500@gmail.com");
+        eMail.sendKeys("ayse050a0@gmail.com");
         password.sendKeys("ays.123");
         confirmPass.sendKeys("ays.123");
 
@@ -66,8 +66,6 @@ public class ElifFatmanur extends BaseDriver {
 
         //ana sayfaya yonlendirilme dogrulamasi
         Assert.assertTrue(driver.getCurrentUrl().equalsIgnoreCase("https://demo.nopcommerce.com/"));
-
-
 
     }
     }

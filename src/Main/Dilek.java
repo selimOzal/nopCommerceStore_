@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 public class Dilek extends BaseDriver {
 
+
     @Test
     public void test1() {
 
@@ -24,9 +25,5 @@ public class Dilek extends BaseDriver {
         login2.click();
         WebElement logoutDogrulama = driver.findElement(By.cssSelector("[class='ico-logout']"));
         Assert.assertEquals(logoutDogrulama.getText(), "Log out");
-
-
     }
-
-
 }
