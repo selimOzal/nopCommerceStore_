@@ -50,13 +50,6 @@ public class zeynep extends BaseDriver {
           login2.click();
 
 
-
-
-
-
-
-
-
      }
 
 }
